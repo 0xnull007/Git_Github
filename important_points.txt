@@ -1,3 +1,5 @@
+Git Docs: https://git-scm.com/docs
+
 -b <branch-name>
 --initial-branch=<branch-name>
 Use the specified name for the initial branch in the newly created repository. If not specified, fall back to the default name (currently master, but this is subject to change in the future; the name can be customized via the init.defaultBranch configuration variable).
